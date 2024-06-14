@@ -1,0 +1,38 @@
+DESCRIPTION
+AAROGYA is a registry of hospitals and medical day-care centers, in the health insurers and Third Party Administrators (TPAs) network, created to benefit health insurance stakeholders. 
+It is a leading platform that bridges the gap between customers, insurance providers, and hospitals.
+
+PEGA EXPRESS METHODOLOGY FEATURES IN OUR PROJECT 
+Micro Journey - Aarogya Home
+                Customer Login
+                Registration
+                Renewal
+
+Personas -  Users
+            TPA Approvers
+            Insurance Approvers
+            Aarogya Admin
+
+Data -  Hospital Details
+        Hospital Identity
+        List of Hospitals
+
+Channels -  Aarogya Home
+            Insurance Portal
+            TPA Portal 
+            Admin Portal
+
+CONCEPTS IMPLEMENTED -> Case Management - Case Design
+                                          Routing
+                                          Service Level Agreement
+                                          Correspondence
+                        Data Management - Properties
+                                          Field Type
+                                          Data Relationships
+                                          Data Transform
+                                          Declare Expression
+                                          Data Pages
+                                          Data Memory in Clipboard
+                        UI             -  Data Validation
+                        Testing        -  Unit Testing
+
